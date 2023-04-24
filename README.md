@@ -1,4 +1,4 @@
-# textreplacerextension
+# Text Replacer Extension
 replaces text on a webpage
 
 
